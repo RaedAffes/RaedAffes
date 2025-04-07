@@ -1,4 +1,4 @@
-<center><img alt="Header" src="https://github.com/Raed-Affes/Raed-Affes/blob/main/header.png?raw=true"/></center>
+<center><img alt="Header" src="https://github.com/Raed-Affes/Raed-Affes/blob/main/photo.png?raw=true"/></center>
 
 # 🧑🏻‍💻 Raed Affes
 
