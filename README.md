@@ -1,4 +1,4 @@
-<center><img alt="Header" src="https://github.com/skanderboudawara/skanderboudawara/blob/main/photo.png?raw=true"/></center>
+<center><img alt="Header" src="https://github.com/skanderboudawara/skanderboudawara/blob/main/header.png?raw=true"/></center>
 
 # 💫 About Me:
 Hi 👋, I'm  Raed Affes A Computer Science Student at ENSI - Ecole Nationale des Sciences de l'Informatique
