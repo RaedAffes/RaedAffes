@@ -1,3 +1,4 @@
+![Cover Image](https://github.com/yourusername/yourrepository/blob/main/photo.png?raw=true)
 # 💫 About Me:
 Hi 👋, I'm  Raed Affes A Computer Science Student at ENSI - Ecole Nationale des Sciences de l'Informatique
 
