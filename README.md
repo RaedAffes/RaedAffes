@@ -1,9 +1,6 @@
 <center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center> 
-## 📎 Quick Access
 
-Scan the QR code to check out my portfolio:
-
-![QR Code](QR%20code.png)
+![QR Code](website QR code.png)
 
 
 # 🧑🏻‍💻 Raed Affes
