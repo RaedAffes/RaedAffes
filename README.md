@@ -5,9 +5,10 @@
   </a>
 </p>
 
-<div style="text-align: right; margin-right: 1px;">
+<p align="right">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Ajoute des espaces ici pour un léger décalage -->
   <img src="code.png" alt="My Portfolio QR Code" width="110"/>
-</div>
+</p>
 
 
 
