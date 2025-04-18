@@ -1,17 +1,13 @@
 <center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center> 
-<p align="right">
-  <strong>📲 My Portfolio</strong>
-</p>
+# 🧩 Portfolio Access Key
+
+> This encrypted access key grants entry to my Portfolio.  
+> Authorized personnel only. 📜
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" />
-  </a>
+  <img src="code.png" alt="Portfolio Access Key" width="270"/>
 </p>
-
-<p align="center">
-  <img src="code.png" alt="My Portfolio QR Code" width="270"/>
-</p>
+>
 
 
 
