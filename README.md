@@ -3,7 +3,16 @@
   <strong>📲 My Portfolio</strong>
 </p>
 
-<p align="right"> <img src="code.png" alt="Website QR Code" width="80"/> </p>
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="code.png" alt="My Portfolio QR Code" width="270"/>
+</p>
+
 
 
 # 🧑🏻‍💻 Raed Affes
