@@ -16,7 +16,7 @@ Hi 👋, I'm  Raed Affes A Computer Science Student at ENSI - Ecole Nationale de
 [![X](https://img.shields.io/badge/X-000000?logo=Twitter&logoColor=white)](https://twitter.com/raed_affes)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Raed-Affes/)
 [![DevPost](https://img.shields.io/badge/DevPost-000000?logo=Devpost&logoColor=white)](https://devpost.com/Raed-Affes/achievements)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raed-Affes?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/RaedAffes?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raedaffes@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACF?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Raed_Affes)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/21697924400)
