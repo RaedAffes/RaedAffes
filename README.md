@@ -5,11 +5,9 @@
   </a>
 </p>
 
-<div style="text-align: right; margin-right: 20px;">
+<p align="right">
   <img src="code.png" alt="My Portfolio QR Code" width="110"/>
-</div>
-
-
+</p>
 
 # 🧑🏻‍💻 Raed Affes
 
