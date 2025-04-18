@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p align="right" style="margin-right: 1000px;">
+<p align="right" style="padding-left: 15px;">
   <img src="code.png" alt="My Portfolio QR Code" width="110"/>
 </p>
 
