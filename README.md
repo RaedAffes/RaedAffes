@@ -1,11 +1,11 @@
 <center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center>  
-<p align="right">
+<p>
   <a href="https://raedaffes.github.io/">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-<p align="right">
+<p>
   <img src="code.png" alt="My Portfolio QR Code" width="110"/>
 </p>
 
