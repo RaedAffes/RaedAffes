@@ -1,4 +1,8 @@
 <center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center> 
+<p align="right">
+  <strong>📲 My Portfolio</strong>
+</p>
+
 <p align="right"> <img src="code.png" alt="Website QR Code" width="100"/> </p>
 
 
