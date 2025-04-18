@@ -1,6 +1,5 @@
 <center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center> 
-
-![QR Code](website QR code.png)
+![Website QR Code](website%20QR%20code.png)
 
 
 # 🧑🏻‍💻 Raed Affes
