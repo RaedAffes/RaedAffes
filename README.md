@@ -1,5 +1,5 @@
 <center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center> 
-![Website QR Code](website%20QR%20code.png)
+<p align="center"> <img src="code.png" alt="Website QR Code" width="250"/> </p>
 
 
 # 🧑🏻‍💻 Raed Affes
