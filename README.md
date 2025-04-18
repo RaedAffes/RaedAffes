@@ -3,7 +3,7 @@
   <strong>📲 My Portfolio</strong>
 </p>
 
-<p align="right"> <img src="code.png" alt="Website QR Code" width="150"/> </p>
+<p align="right"> <img src="code.png" alt="Website QR Code" width="80"/> </p>
 
 
 # 🧑🏻‍💻 Raed Affes
