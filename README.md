@@ -1,4 +1,4 @@
-<center><img alt="Header" src="https://github.com/Raed-Affes/Raed-Affes/blob/main/photo.png?raw=true"/></center>
+<center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center>
 
 # 🧑🏻‍💻 Raed Affes
 
@@ -7,7 +7,7 @@ Hi 👋, I'm  Raed Affes A Computer Science Student at ENSI - Ecole Nationale de
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=githubpages&logoColor=white)](https://raed-affes.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=githubpages&logoColor=white)](https://raedaffes.github.io)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/raed.affes)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raed.affes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raed-affes/)
