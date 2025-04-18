@@ -1,7 +1,7 @@
 <center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center> 
 <p align="right">
   <a href="https://raedaffes.github.io/">
-    &nbsp;&nbsp;&nbsp; <!-- Ajoute des espaces ici pour décaler l'icône -->
+    &nbsp;&nbsp <!-- Ajoute des espaces ici pour décaler l'icône -->
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
