@@ -40,10 +40,10 @@ Hi 👋, I'm  Raed Affes A Computer Science Student at ENSI - Ecole Nationale de
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Raed-Affes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Raed-Affes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raed-Affes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaedAffes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raed-Affes&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RaedAffes&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raed-Affes&icon=0&color=0)](https://visitcount.itsvg.in)
