@@ -3,7 +3,7 @@
 <p align="right"> 
    <a href="https://raedaffes.github.io/">
      <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" />
-   </a> 
+   </a>    
  </p>    
   
  <p align="right">
