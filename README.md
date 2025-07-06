@@ -8,7 +8,7 @@
   
  <p align="right">
    <img src="code.png" alt="My Portfolio QR Code" width="110"/>
- </p>
+ </p>  
  
 # 🧑🏻‍💻 Raed Affes
 
