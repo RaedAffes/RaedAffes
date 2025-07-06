@@ -1,4 +1,4 @@
-<center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center>   
+  <center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center>   
 
 <p align="right"> 
    <a href="https://raedaffes.github.io/">
