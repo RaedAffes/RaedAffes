@@ -4,7 +4,7 @@
    <a href="https://raedaffes.github.io/">
      <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" />
    </a> 
- </p>
+ </p> 
  
  <p align="right">
    <img src="code.png" alt="My Portfolio QR Code" width="110"/>
