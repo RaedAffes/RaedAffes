@@ -27,12 +27,13 @@ Hi 👋, I'm  Raed Affes A Computer Science Student at ENSI - Ecole Nationale de
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Raed-Affes/)
 [![DevPost](https://img.shields.io/badge/DevPost-000000?logo=Devpost&logoColor=white)](https://devpost.com/Raed-Affes/achievements)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/RaedAffes?tab=repositories)
-[![GitLab](https://img.shields.io/badge/GitHub-181717?logo=gitlab&logoColor=white)](https://gitlab.com/RaedAffes)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white)](https://gitlab.com/RaedAffes)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raedaffes@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACF?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Raed_Affes)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/21697924400)
 [![Threads](https://img.shields.io/badge/Threads-%23E8E8E8.svg?logo=threads&logoColor=black)](https://www.threads.net/@raed.affes)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/21697924400)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/raedaffes)
+
 
 
 
