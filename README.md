@@ -1,5 +1,4 @@
-<center><img alt="Header" src="https://cdn.jsdelivr.net/gh/RaedAffes/RaedAffes@main/photo.png" width="100%"/></center>
-<p align="right"> 
+<center><img alt="Header" src="https://cdn.jsdelivr.net/gh/RaedAffes/RaedAffes@main/photo.png"/></center><p align="right"> 
    <a href="https://raedaffes.github.io/">
      <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" />
    </a>     
