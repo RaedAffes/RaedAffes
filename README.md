@@ -2,9 +2,11 @@
 
 <p align="right"> 
    <a href="https://iprepa.tn">
-     <img src="https://img.shields.io/badge/👀_See_My_Latest_Project-DC2626?style=for-the-badge&logoColor=white" />
+     <!-- Animated SVG Badge -->
+     <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='40'%3E%3Cstyle%3E@keyframes pulse%7B0%25%7Bopacity:1%7D50%25%7Bopacity:0.6%7D100%25%7Bopacity:1%7D%7D.btn%7Banimation:pulse 1.5s infinite%7D%3C/style%3E%3Cg class='btn'%3E%3Crect width='260' height='40' rx='8' fill='%23DC2626'/%3E%3Ctext x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' fill='white' font-family='system-ui,sans-serif' font-weight='700' font-size='15'%3E%F0%9F%91%80 See My Latest Project%3C/text%3E%3C/g%3E%3C/svg%3E" alt="See My Latest Project" />
    </a>     
- </p> 
+ </p>    
+ 
  
 # 🧑🏻‍💻 Raed Affes
 
