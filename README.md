@@ -2,14 +2,9 @@
 
 <p align="right"> 
    <a href="https://iprepa.tn">
-     <img src="https://img.shields.io/badge/_See_My_Latest_Project-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+     <img src="https://img.shields.io/badge/👀_See_My_Latest_Project-DC2626?style=for-the-badge&logoColor=white" />
    </a>     
- </p>    
-  
- <p align="right">
-   <img src="code.png" alt="My Portfolio QR Code" width="110"/>
- </p>  
- 
+ </p> 
  
 # 🧑🏻‍💻 Raed Affes
 
