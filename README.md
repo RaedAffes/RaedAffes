@@ -1,42 +1,46 @@
-<center><img alt="Header" src="https://cdn.jsdelivr.net/gh/RaedAffes/RaedAffes@main/photo.png"/></center>   
+<center>
+  <img alt="Header" src="https://cdn.jsdelivr.net/gh/RaedAffes/RaedAffes@main/photo.png" />
+</center>   
 
 <p align="right"> 
-   <a href="https://iprepa.tn">
+   <a href="https://iprepa.tn" target="_blank">
      <img src="https://img.shields.io/badge/👀_See_My_Latest_Project-DC2626?style=for-the-badge" alt="See My Latest Project" />
    </a>
    <br>
-   <a href="https://iprepa.tn">
+   <a href="https://iprepa.tn" target="_blank">
      <img src="https://img.shields.io/badge/🌐_iprepa.tn_%F0%9F%96%B1%EF%B8%8F-161b22?style=for-the-badge&logo=google-chrome&logoColor=DC2626" alt="Visit iprepa.tn" />
    </a>
 </p>        
  
- 
- 
 # 🧑🏻‍💻 Raed Affes
 
-##  About Me
+## About Me
 👋 Hi, I'm **Raed**  
 3rd-Year Computer Engineering Student at ENSI | Cloud & DevOps | AI & LLMs | Azure Certified
 
+---
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=githubpages&logoColor=white)](https://raedaffes.github.io)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/raed.affes)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raed.affes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raed-affes/)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30160819/raed-affes)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@RaedAffes)
-[![X](https://img.shields.io/badge/X-000000?logo=Twitter&logoColor=white)](https://twitter.com/raed_affes)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Raed-Affes/)
-[![DevPost](https://img.shields.io/badge/DevPost-000000?logo=Devpost&logoColor=white)](https://devpost.com/Raed-Affes/achievements)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/RaedAffes?tab=repositories)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white)](https://gitlab.com/RaedAffes)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raedaffes@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACF?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Raed_Affes)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/21697924400)
-[![Threads](https://img.shields.io/badge/Threads-%23E8E8E8.svg?logo=threads&logoColor=black)](https://www.threads.net/@raed.affes)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/raedaffes)
+## 🌐 Socials
+<p align="left">
+  <a href="https://raedaffes.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/raed-affes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/RaedAffes?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://gitlab.com/RaedAffes" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  <a href="https://www.facebook.com/raed.affes" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/raed.affes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://twitter.com/raed_affes" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="X" /></a>
+  <a href="https://www.threads.net/@raed.affes" target="_blank"><img src="https://img.shields.io/badge/Threads-%23E8E8E8?style=for-the-badge&logo=threads&logoColor=black" alt="Threads" /></a>
+  <a href="https://www.youtube.com/@RaedAffes" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://wa.me/21697924400" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:raedaffes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stackoverflow.com/users/30160819/raed-affes" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://leetcode.com/u/Raed-Affes/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/Raed_Affes" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.kaggle.com/raedaffes" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://devpost.com/Raed-Affes/achievements" target="_blank"><img src="https://img.shields.io/badge/DevPost-000000?style=for-the-badge&logo=Devpost&logoColor=white" alt="DevPost" /></a>
+</p>
 
+---
 
 # 💻 Tech Stack & Tools
 
@@ -101,28 +105,32 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
+---
 
 # 🚀 Featured Projects
 
-### 🌐 [iprepa.tn](https://iprepa.tn)
+### 🌐 &nbsp; [![iprepa.tn](https://img.shields.io/badge/🚀_iprepa.tn-000000?style=for-the-badge&logo=google-chrome&logoColor=00E5FF)](https://iprepa.tn)
 > A digital library for preparatory classes with **5K+ active users**. Built with a serverless Cloudflare architecture (Workers, R2, D1) and Next.js, featuring advanced SEO and analytics.
 
-###  [myreviewer.tech](https://myreviewer.tech)
+### 🤖 &nbsp; [![myreviewer.tech](https://img.shields.io/badge/🤖_myreviewer.tech-000000?style=for-the-badge&logo=github&logoColor=white)](https://myreviewer.tech)
 > AI-powered automated code review assistant for GitHub Pull Requests. Containerized with Docker, deployed on Azure VMs orchestrated by Kubernetes, and monitored via Prometheus & Grafana.
 
-### 📱 [Taadia](https://play.google.com/store) *(Google Play Store)*
+### 📱 &nbsp; [![Taadia](https://img.shields.io/badge/📱_Taadia-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store)
 > Evaluation tracking app for teachers with **70+ active users**. Built with Flutter and Firebase, featuring automated CI/CD pipelines via GitHub Actions for continuous deployment.
 
+---
 
 # 🏆 Certifications & Achievements
-- 🏅 **Microsoft Azure Fundamentals (AZ-900)** - [View Credential](https://learn.microsoft.com/en-us/users/raedaffes-2156/credentials/90db3646ab077536)
--  **IBM DevOps & Agile Professional Certificate** - [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/VEXDX47ZU7AO)
-- 🏆 **Club ENSI of Competitive Programming (ECPC)** - Active Member (2024 - 2025)
-- 🤖 **Association Robotique ENSI** - Active Member (2024 - 2025)
-
+- 🏅 **Microsoft Azure Fundamentals (AZ-900)** — [![View Credential](https://img.shields.io/badge/View_Credential-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/raedaffes-2156/credentials/90db3646ab077536)
+- 🎓 **IBM DevOps & Agile Professional Certificate** — [![View Credential](https://img.shields.io/badge/View_Credential-0056D2?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/VEXDX47ZU7AO)
+- 🏆 **Club ENSI of Competitive Programming (ECPC)** — Active Member (2024 - 2025)
+- 🤖 **Association Robotique ENSI** — Active Member (2024 - 2025)
 
 ---
+
 <p align="center">
-  <i>Made with ❤️ by Raed Affes</i><br>
-  <a href="mailto:raedaffes@gmail.com">📧 Get in touch</a>
+  <i>Made with ❤️ by Raed Affes</i><br><br>
+  <a href="mailto:raedaffes@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📧_Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
+  </a>
 </p>
