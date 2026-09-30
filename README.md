@@ -1,5 +1,4 @@
-<center><img alt="Header" src="https://github.com/RaedAffes/RaedAffes/blob/main/photo.png?raw=true"/></center>   
-
+<center><img alt="Header" src="https://cdn.jsdelivr.net/gh/RaedAffes/RaedAffes@main/photo.png" width="100%"/></center>
 <p align="right"> 
    <a href="https://raedaffes.github.io/">
      <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" />
@@ -10,9 +9,9 @@
    <img src="code.png" alt="My Portfolio QR Code" width="110"/>
  </p>  
  
-# 🧑🏻‍ Raed Affes
+# 🧑🏻‍💻 Raed Affes
 
-## 💫 About Me
+##  About Me
 👋 Hi, I'm **Raed**  
 3rd-Year Computer Engineering Student at ENSI | Cloud & DevOps | AI & LLMs | Azure Certified
 
@@ -100,12 +99,27 @@
 </p>
 
 
-# 🔥 GitHub Stats & Activity
+# 🚀 Featured Projects
 
-<div align="center">
-  <!-- GitHub Streak Stats (Highly Reliable & Beautiful) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaedAffes&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
-  
-  <!-- GitHub Activity Graph -->
-  <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=RaedAffes&theme=react-dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=2F81F7&area=true" alt="GitHub Activity Graph" />
-</div>
+### 🌐 [iprepa.tn](https://iprepa.tn)
+> A digital library for preparatory classes with **5K+ active users**. Built with a serverless Cloudflare architecture (Workers, R2, D1) and Next.js, featuring advanced SEO and analytics.
+
+###  [myreviewer.tech](https://myreviewer.tech)
+> AI-powered automated code review assistant for GitHub Pull Requests. Containerized with Docker, deployed on Azure VMs orchestrated by Kubernetes, and monitored via Prometheus & Grafana.
+
+### 📱 [Taadia](https://play.google.com/store) *(Google Play Store)*
+> Evaluation tracking app for teachers with **70+ active users**. Built with Flutter and Firebase, featuring automated CI/CD pipelines via GitHub Actions for continuous deployment.
+
+
+# 🏆 Certifications & Achievements
+- 🏅 **Microsoft Azure Fundamentals (AZ-900)** - [View Credential](https://learn.microsoft.com/en-us/users/raedaffes-2156/credentials/90db3646ab077536)
+-  **IBM DevOps & Agile Professional Certificate** - [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/VEXDX47ZU7AO)
+- 🏆 **Club ENSI of Competitive Programming (ECPC)** - Active Member (2024 - 2025)
+- 🤖 **Association Robotique ENSI** - Active Member (2024 - 2025)
+
+
+---
+<p align="center">
+  <i>Made with ❤️ by Raed Affes</i><br>
+  <a href="mailto:raedaffes@gmail.com">📧 Get in touch</a>
+</p>
